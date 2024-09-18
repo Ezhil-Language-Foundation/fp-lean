@@ -1,4 +1,8 @@
-Functional Programming in Lean
+# Lean மொழியில் சார்புறு நிரலாக்கம்
+Tamil translation of book "Functional Programming in Lean"
+
+
+# Functional Programming in Lean
 
 This repository contains the source code of the book Functional Programming in Lean by David Thrane Christiansen.
 

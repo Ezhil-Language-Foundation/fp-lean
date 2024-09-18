@@ -3,6 +3,7 @@ Tamil translation of book "Functional Programming in Lean"
 
 
 # Functional Programming in Lean
+Published version: https://leanprover.github.io/functional_programming_in_lean/
 
 This repository contains the source code of the book Functional Programming in Lean by David Thrane Christiansen.
 
